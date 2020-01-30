@@ -1,0 +1,145 @@
+/*fond*/
+body.fond1 {
+	background-color: #777;
+}
+body { margin:0;
+	font-family: 'Kite One';font-size: 22px;
+	}
+head img {
+	  	width: 100px;
+	  	height : 300px;
+	  	text-align: center;
+}
+
+.contenu {
+	text-align: center;
+   	width:1000px;
+  	background: #666;
+  	margin:auto;
+}
+/* bandeau en haut*/
+body { margin:0; 
+}
+/*#titre { background: #ffff; width:100%; text-align: center; position: fixed; }*/
+
+/*bandeau projet*/
+.bandeau {
+	text-align: center;
+	font-size:100px;
+    width : 100%;
+    height : 300px;
+    margin : 50px 50 50 50;
+    background : #999 repeat center center ;
+}
+
+div.internet{
+	background-color: #3D3D3D;
+	color: white;
+	margin:auto;
+	text-align: center;
+	width:700px;
+	border-radius: 10px;
+
+}
+
+
+/*box general*/
+div#box1 {
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+div#box1 div{
+	display: inline-block;
+	width: 49.5%
+
+}
+/*box gauche*/
+div#box1 div.leftbox h1 div {
+	color: white;
+	font-size:35px;
+	text-align: center;
+	background-color: #2D2D2D;
+	border-radius: 10px;
+}
+
+div#box1 div.leftbox{
+	vertical-align: top;
+	background-color: #3D3D3D;
+	border-radius: 10px;
+}
+
+/*box droite*/
+div#box1 div.rightbox h1 div {
+	color: white;
+	font-size:35px;
+	text-align: center;
+	background-color: #2D2D2D;
+	border-radius: 10px;
+}
+
+div#box1 div.rightbox{
+	background-color: #3D3D3D;
+	border-radius: 10px;
+}
+
+/*texte box*/
+h1 {
+	font-size: 50px;
+	text-align: center;
+}
+/*INTERNET*/
+body.fond1 p.jeux {
+	text-align: center;
+	text-decoration: 
+	font-weight: bold;
+	font-size:50px;
+	
+}
+/*bouton*/
+nav.menunav {
+	text-align: center
+}
+	ul li.btn {
+	font-size: 33px;
+	text-align: center;
+	padding: 40px;
+	display: inline-block;
+	list-style-type: none;
+
+}
+nav.menunav ul li.btn a{
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	background-color: black;
+	text-decoration: none;
+	border-radius: 5px;
+}
+/*bouton animation*/
+nav.menunav ul li.btn:hover a{
+	color: black;
+	background-color: white;
+	text-decoration: none;
+	transition: 0.3s all;
+}
+
+
+/*h1{
+	padding-left: 400px;
+	font-weight: bold;
+	font-size:100px;
+	color: purple;
+}
+	p.paragraphe1{
+		color: red;
+		background-color: blue;
+		opacity: 0.1;
+	}
+body {
+	background-color: #777;
+}*/
+footer {
+	font-size:100px;
+	font-weight: bold;
+	font: 0.8em "Trebuchet MS", helvetica, cursive ;
+}

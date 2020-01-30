@@ -1,0 +1,111 @@
+/*fond*/
+body.fond1 {
+	background-color: #777;
+}
+head img{
+	  	width: 100px;
+	  	height : 100%;
+}
+
+.contenu {
+	text-align: center;
+   	width:1000px;
+  	background: #666;
+  	margin:auto;
+}
+body { 
+	margin:0;
+	font-family: 'Kite One';font-size: 22px;
+ }
+
+
+/*bandeau projet*/
+.bandeau {
+	
+	text-align: center;
+	font-size:100px;
+    width : 100%;
+    height : 300px;
+    margin : 50px 50 50 50;
+    background : #999 repeat center center ;
+}
+
+div.internet{
+
+	background-color: #3D3D3D;
+	color: white;
+	margin:auto;
+	margin-top:50px;
+	text-align: center;
+	width:700px;
+	border-radius: 10px;
+
+
+}
+
+
+/*bouton*/
+nav.menunav {
+	text-align: center}
+	ul li.btn {
+	font-size: 33px;
+	text-align: center;
+	padding-left: 60px;
+	padding: 40px;
+	display: inline-block;
+	list-style-type: none;
+
+}
+nav.menunav ul li.btn a{
+	font-size: 30px;
+	color: white;
+	background-color: black;
+	text-decoration: none;
+	border-radius: 5px;
+}
+/*bouton animation*/
+nav.menunav ul li.btn:hover a{
+	color: black;
+	background-color: white;
+	text-decoration: none;
+	transition: 0.3s all;
+}
+
+
+/*h1{
+	padding-left: 400px;
+	font-weight: bold;
+	font-size:100px;
+	color: purple;
+}
+	p.paragraphe1{
+		color: red;
+		background-color: blue;
+		opacity: 0.1;
+	}
+body {
+	background-color: #777;
+}*/
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: auto;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+  width:97.85%;
+  margin-bottom: 10px;
+}
+
+
+
