@@ -5,14 +5,11 @@ body.fond1 {
 
 
 
-body { margin:0; }
 body { margin:0;
 	font-family: 'Cherry Swash';font-size: 22px;
-}
-head img{
-	  	width: 100%;
-	  	height : 100%;
-	  	text-align: center;
+	text-align: center;
+	width: 100%;
+	height : 100%;
 }
 
 .contenu {
