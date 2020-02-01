@@ -6,7 +6,7 @@ body { margin:0;
 	font-family: 'Kite One';font-size: 22px;
 	}
 head img {
-	  	width: 100px;
+	  	width: 100%;
 	  	height : 100%;
 	  	text-align: center;
 }
