@@ -9,7 +9,7 @@ head img{
 
 .contenu {
 	text-align: center;
-   	width:1000px;
+   	width:100%;
   	background: #666;
   	margin:auto;
 }
@@ -103,7 +103,7 @@ body {
 .fa-google {
   background: #dd4b39;
   color: white;
-  width:97.85%;
+  width:100%;
   margin-bottom: 10px;
 }
 
