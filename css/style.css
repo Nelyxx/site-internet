@@ -1,9 +1,13 @@
 /*fond*/
 body.fond1 {
 	background-color: #777;
+
 }
 body { margin:0;
 	font-family: 'Kite One';font-size: 22px;
+	width: 100%;
+	height : 100%;
+	text-align: center;
 	}
 head img {
 	  	width: 100%;
