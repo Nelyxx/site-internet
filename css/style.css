@@ -49,7 +49,7 @@ div.internet{
 
 /*box general*/
 div#box1 {
-	padding-left: 10px;
+	padding-left: 0px;
 	padding-bottom: 10px;
 }
 div#box1 div{
@@ -63,13 +63,13 @@ div#box1 div.leftbox h1 div {
 	font-size:35px;
 	text-align: center;
 	background-color: #2D2D2D;
-	border-radius: 10px;
+	border-radius: 20px;
 }
 
 div#box1 div.leftbox{
 	vertical-align: top;
 	background-color: #3D3D3D;
-	border-radius: 10px;
+	border-radius: 20px;
 }
 
 /*box droite*/
@@ -78,12 +78,12 @@ div#box1 div.rightbox h1 div {
 	font-size:35px;
 	text-align: center;
 	background-color: #2D2D2D;
-	border-radius: 10px;
+	border-radius: 20px;
 }
 
 div#box1 div.rightbox{
 	background-color: #3D3D3D;
-	border-radius: 10px;
+	border-radius: 20px;
 }
 
 /*texte box*/

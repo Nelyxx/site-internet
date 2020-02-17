@@ -64,7 +64,8 @@ div.domainebox{
   padding-bottom: 10px; /* Add bottom padding */
   color: white; /* White text color */
 }
-p{
+p
+{
 	margin-left: 20px;
 }
 
@@ -77,7 +78,30 @@ p{
 .Allemand {width: 50%; background-color: #f44336;}
 .Sport {width: 50%; background-color: #f44336;}
 
+.logiciel{
+	background-color: #3D3D3D;
+	color: white;
+	border-radius: 10px;
+	margin: auto;
+	text-align: center;
+	width:700px;
+}
 
+.HTML {width: 80%; background-color: #4CAF50;}
+.CSS  {width: 70%; background-color: #2196F3;}
+
+.acquisition{
+	background-color: #3D3D3D;
+	color: white;
+	border-radius: 10px;
+	margin: auto;
+	text-align: center;
+	width:700px;
+}
+.premiere {width: 60%; background-color: #4CAF50;}
+.JavaScrit {width: 30%; background-color: #2196F3;}
+.PHP {width: 20%; background-color: #2196F3;}
+.photoshop {width: 20%; background-color: #2196F3;}
 /*bouton*/
 nav.menunav {
 	text-align: center}
@@ -150,9 +174,11 @@ body {
 	text-align: center;
  	font-size: 50px;
  	word-break: break-all;
+ 	color: white;
 }
 .alpes {
 	text-align: center;
+	color: white;
 }
 .row {
   margin: 8px;
@@ -172,6 +198,7 @@ body {
 }
 .photo{
 	text-align: center;
+	color: white;
 }
 
 /* Clear floats after rows */
