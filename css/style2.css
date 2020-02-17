@@ -168,6 +168,7 @@ body {
   max-width: 100%;
   margin: auto;
   background: #3D3D3D;
+  border-radius: 20px;
 }
 
 .image {
